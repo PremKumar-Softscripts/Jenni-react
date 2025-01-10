@@ -28,7 +28,7 @@ function App() {
   ];
 
   return (
-    <Router>
+    <Router basename='/Jenni-react'>
       <div>
         <Routes>
           <Route 
