@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PremKumar-Softscripts/Jenni-react/static/css/main.e6101f37.css",
-    "main.js": "/PremKumar-Softscripts/Jenni-react/static/js/main.cc1c44e9.js",
+    "main.js": "/PremKumar-Softscripts/Jenni-react/static/js/main.bfd41222.js",
     "static/js/453.ed3810f9.chunk.js": "/PremKumar-Softscripts/Jenni-react/static/js/453.ed3810f9.chunk.js",
     "static/media/Slider-1.jpg": "/PremKumar-Softscripts/Jenni-react/static/media/Slider-1.769121de1b0c9cbacce1.jpg",
     "static/media/Slider-3.jpg": "/PremKumar-Softscripts/Jenni-react/static/media/Slider-3.982dac681ecb9da0d883.jpg",
@@ -26,11 +26,11 @@
     "static/media/img2.jpg": "/PremKumar-Softscripts/Jenni-react/static/media/img2.45d4b17b20a1a2caf7ea.jpg",
     "index.html": "/PremKumar-Softscripts/Jenni-react/index.html",
     "main.e6101f37.css.map": "/PremKumar-Softscripts/Jenni-react/static/css/main.e6101f37.css.map",
-    "main.cc1c44e9.js.map": "/PremKumar-Softscripts/Jenni-react/static/js/main.cc1c44e9.js.map",
+    "main.bfd41222.js.map": "/PremKumar-Softscripts/Jenni-react/static/js/main.bfd41222.js.map",
     "453.ed3810f9.chunk.js.map": "/PremKumar-Softscripts/Jenni-react/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6101f37.css",
-    "static/js/main.cc1c44e9.js"
+    "static/js/main.bfd41222.js"
   ]
 }
